@@ -6,7 +6,7 @@
 
 
 ## Name of people with their work on project
-- **GUI of Task-1 and Task-2 -> Muhammad Hassan Bin Adeel**
+- **GUI of Task-1 and basic GUI(shapes) of Task-2 -> Muhammad Hassan Bin Adeel**
 
     ![work screenshot #1](mhba.png)
     ![work screenshot #2](mhba2.png)
@@ -19,11 +19,13 @@
 - **Functionality of operations in Task-1 and Task-2 -> Syed Hashir Ahmed Kazi and Mohsin Khan**
 
     ![work screenshot #5](hashir_mohsin.png)
+    ![work screenshot #6](hashir_mohsin2.png)
+
 
 - **Debugging of Task-1 and Task-2 GUI and Logic -> Muhammad Taha Mukhtar**
 
-    ![work screenshot #6](taha1.jpeg)
-    ![work screenshot #7](taha2.jpeg)
+    ![work screenshot #7](taha1.jpeg)
+    ![work screenshot #8](taha2.jpeg)
 
 ### GUI
 - Displaying input box
@@ -44,6 +46,7 @@
 - 11 commands working in Task-1
 - All 15 commands working in Task-2
 - If command not working in Task-1, then click on simulate button and it will work in Task-2
+- Do not enter ax in mul,imul,div,idiv as constraint missing in task-1 but again it does work in Task-2
 
 ## Example use of all instructions
 1. MOV 
@@ -73,7 +76,7 @@
 12. MUL
     - mul bx (Task-1 not working)
 13. IMUL
-    -imul bx (Task-1 not working)
+    - imul bx (Task-1 not working)
 14. DIV
     - div bx (Task-1 not working)
 15. IDIV
