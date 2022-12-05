@@ -19,7 +19,7 @@
 - **Functionality of operations in Task-1 and Task-2 -> Syed Hashir Ahmed Kazi and Mohsin Khan**
 
     ![work screenshot #5](hashir_mohsin.png)
-    ![work screenshot #6](hashir_mohsin2.png)
+    ![work screenshot #6](hashir_mohsin2.jpeg)
 
 
 - **Debugging of Task-1 and Task-2 GUI and Logic -> Muhammad Taha Mukhtar**
